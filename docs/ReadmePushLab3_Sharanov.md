@@ -2,4 +2,4 @@
 Я привязал удалённый репозиторий GitHub к проекту.
 Для этого использовал команду "git remote add origin".
 Затем отправил первый коммит командой "git push -u origin master".
-Ветка master создана на GitHub.
+Ветка master успешно создана на GitHub.
