@@ -180,8 +180,3 @@ Markdown полезен в разработке[^markdown].
 Греческие буквы: $\alpha, \beta, \gamma, \delta$
 
 Суммы и произведения: $\sum_{i=1}^n i, \prod_{k=1}^n k$
-
-Матрицы: 
-$$
-\begin{pmatrix} 1 & 2 \\ 3 & 4 \end{pmatrix}
-$$
